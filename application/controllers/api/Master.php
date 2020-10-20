@@ -9,6 +9,7 @@ class Master extends CI_Controller{
    
     public function index(){
     	echo "string";
+    	echo "dodi";
     }
 
 	public function api_kategory(){

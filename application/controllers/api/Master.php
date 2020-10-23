@@ -76,5 +76,10 @@ class Master extends CI_Controller{
 		   echo json_encode($data);
 		}
 	}
+
+	public function FunctionName($value='')
+	{
+		# code...
+	}
 }
 ?>

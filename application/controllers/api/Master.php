@@ -81,5 +81,10 @@ class Master extends CI_Controller{
 	{
 		# code...
 	}
+
+	public function FunctionName($value='')
+	{
+		# code...
+	}
 }
 ?>
